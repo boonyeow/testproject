@@ -63,12 +63,22 @@ Launchpad is a no-code solution for algorithmic artwork generation, smart contra
 ## Team
 Hey there! We're a group of students from Singapore Management University!
 
-BY - bytan.2021@scis.smu.edu.sg
+#### BY
+* Email: bytan.2021@scis.smu.edu.sg
+* LinkedIn: https://www.linkedin.com/in/tanboonyeow/
 
-JR - jinrui.seah.2021@economics.smu.edu.sg
+#### JR
+* Email: jinrui.seah.2021@economics.smu.edu.sg
+* Linkedin: https://www.linkedin.com/in/seah-jin-rui/
 
-Justin - justin.mok.2020@business.smu.edu.sg
+#### Justin
+* Email: justin.mok.2020@business.smu.edu.sg
+* Linkedin: https://www.linkedin.com/in/justinmok1998/
 
-Yong Jiun - yjlew.2020@scis.smu.edu.
+#### Sebastian
+* Email: cpong.2021@scis.smu.edu.sg
+* Linkedin: https://www.linkedin.com/in/sebastian-ong98/
 
-Sebastian - cpong.2021@scis.smu.edu.sg
+#### Yong Jiun
+* Email: yjlew.2020@scis.smu.edu.sg
+* LinkedIn: https://www.linkedin.com/in/yongjiun/
