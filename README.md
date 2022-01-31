@@ -28,16 +28,19 @@ Launchpad is a no-code solution for algorithmic artwork generation, smart contra
 - Upload images and metadata to IPFS via Pinata Cloud
 - Generate minting dApp and configure launch time / minting whitelist
 
+## Solution Architecture
+
+
 ## Local Deployment
 #### Pre-requisites
 1. ICONex Wallet (https://chrome.google.com/webstore/detail/iconex/flpiciilemghbmfalicajoolhkkenfel?hl=en)
 2. NodeJS
 
 #### Test Guide
-1. Clone repository
-2. cd to package directory
-3. run npm install to install dependencies 
-4. run npm start to start local server
+1. Clone and unzip repository to a folder
+2. Open CLI and ```cd``` to package directory
+3. Run ```npm install``` to install dependencies 
+4. Run ```npm start``` to start local server
 
 ## Limitations
 - Artwork generation only supports static images
@@ -47,11 +50,12 @@ Launchpad is a no-code solution for algorithmic artwork generation, smart contra
 ## Roadmap
 - Migrating to Java SCORE
 - Integration with Craft Marketplace for secondary sales
-- 
+- Supporting different types of NFTs (e.g., Music, Event Tickets, In-game assets)
 
 ## Resources
-Medium - (https://medium.com/@justin.mok.2020/launchpad-the-go-to-nft-minting-solution-e5b0b686ad02)
-Testnet Faucet - (https://faucet.ibriz.ai/)
+##### Medium - (https://medium.com/@justin.mok.2020/launchpad-the-go-to-nft-minting-solution-e5b0b686ad02)
+
+##### Testnet Faucet - (https://faucet.ibriz.ai/)
 
 ## Team
 Hey there! We're a group of students from Singapore Management University!
