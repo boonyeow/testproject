@@ -14,10 +14,9 @@ Launchpad is a no-code solution for algorithmic artwork generation, smart contra
 #### 3. Time consuming & inefficient process
 - Hello world
 
-## Video Demo 
+## Proposed Solution
+### Video Demo 
 
-
-## Core Functionality
 #### 1. Artwork Generation
 - Import layers of images
 - Configure rarity of each images and merge them
@@ -27,6 +26,9 @@ Launchpad is a no-code solution for algorithmic artwork generation, smart contra
 - Deploy custom IRC-31 contract
 - Upload images and metadata to IPFS via Pinata Cloud
 - Generate minting dApp and configure launch time / minting whitelist
+
+### User Flow
+![image](https://user-images.githubusercontent.com/9499796/151764300-592fb0d2-bfac-4e76-965a-875a925bc104.png)
 
 ## Solution Architecture
 ![image](https://user-images.githubusercontent.com/9499796/151760000-ebfbbe44-6e97-463b-8e8e-13addd2d7a8d.png)
