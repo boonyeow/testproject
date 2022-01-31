@@ -31,16 +31,19 @@ Launchpad is a no-code solution for algorithmic artwork generation, smart contra
 ## Local Deployment
 #### Pre-requisites
 1. ICONex Wallet (https://chrome.google.com/webstore/detail/iconex/flpiciilemghbmfalicajoolhkkenfel?hl=en)
-
+2. NodeJS
+3. 
 
 
 ## Limitations
-- Only randomized launch is supported for now
-
 ## Roadmap
 - Migrating to Java SCORE
 - Integration with Craft Marketplace for secondary sales
-- Introduce more launch mechanisms (e.g., Dutch / English auctions) 
+- Analytics 
+
+## Resources
+Medium - (https://medium.com/@justin.mok.2020/launchpad-the-go-to-nft-minting-solution-e5b0b686ad02)
+Testnet Faucet - (https://faucet.ibriz.ai/)
 
 ## Team
 Hey there! We're a group of students from Singapore Management University!
