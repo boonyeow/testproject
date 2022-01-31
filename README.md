@@ -40,7 +40,7 @@ Launchpad is a no-code solution for algorithmic artwork generation, smart contra
 ## Roadmap
 - Migrating to Java SCORE
 - Integration with Craft Marketplace for secondary sales
-- Introduce different launch mechanisms (e.g., Dutch / English auctions) 
+- Introduce more launch mechanisms (e.g., Dutch / English auctions) 
 
 ## Team
 Hey there! We're a group of students from Singapore Management University!
