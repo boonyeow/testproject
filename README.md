@@ -48,9 +48,9 @@ Launchpad is a no-code solution for algorithmic artwork generation, smart contra
 - Lack integration with Craft Marketplace (only artist-to-user sales available for now)
 
 ## Roadmap
-- Migrating to Java SCORE
-- Integration with Craft Marketplace for secondary sales
-- Supporting different types of NFTs (e.g., Music, Event Tickets, In-game assets)
+- [ ] Migration to Java SCORE
+- [ ] Integration with Craft Marketplace for secondary sales
+- [ ] Supporting different types of NFTs (e.g., Music, Event Tickets, In-game assets)
 
 ## Resources
 ##### Medium - (https://medium.com/@justin.mok.2020/launchpad-the-go-to-nft-minting-solution-e5b0b686ad02)
@@ -59,6 +59,10 @@ Launchpad is a no-code solution for algorithmic artwork generation, smart contra
 
 ##### Testnet Faucet - (https://faucet.ibriz.ai/)
 
+
+### Accomplishments that we're proud of
+We started this project in December during our winter break with zero knowledge on development in ReactJS and smart contract as well as deployment to production server. We're proud to have delivered a functional and hopefully a user-friendly product for the hackathon. Apart from this, we also got to learn more about the painpoints from the artists' perspective as they enter the NFT space. Our focus, from start to end, had always been user-first to make the experience as seamless as possible to lower the technical barriers to entry for artists and creators. So in that aspect, we're also proud of our user interface which was the result of countless iterations to improve the user flow. 
+Nonetheless, it was an extremely enriching and fruitful experience for us. Thank you for this opportunity! :)
 
 ## Team
 Hey there! We're a group of students from Singapore Management University!
