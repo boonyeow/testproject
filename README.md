@@ -55,7 +55,10 @@ Launchpad is a no-code solution for algorithmic artwork generation, smart contra
 ## Resources
 ##### Medium - (https://medium.com/@justin.mok.2020/launchpad-the-go-to-nft-minting-solution-e5b0b686ad02)
 
+##### Slides - (https://docs.google.com/presentation/d/1is7rN8gtYgGrecR8nc653bLBN8FT0caA5buM4SZBkRE/edit#slide=id.p1)
+
 ##### Testnet Faucet - (https://faucet.ibriz.ai/)
+
 
 ## Team
 Hey there! We're a group of students from Singapore Management University!
