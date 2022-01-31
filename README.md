@@ -29,7 +29,7 @@ Launchpad is a no-code solution for algorithmic artwork generation, smart contra
 - Generate minting dApp and configure launch time / minting whitelist
 
 ## Solution Architecture
-
+![image](https://user-images.githubusercontent.com/9499796/151760000-ebfbbe44-6e97-463b-8e8e-13addd2d7a8d.png)
 
 ## Local Deployment
 #### Pre-requisites
@@ -45,7 +45,7 @@ Launchpad is a no-code solution for algorithmic artwork generation, smart contra
 ## Limitations
 - Artwork generation only supports static images
 - Unable to link multiple collections under one parent contract
-- 
+- Lack integration with Craft Marketplace (only artist-to-user sales available for now)
 
 ## Roadmap
 - Migrating to Java SCORE
