@@ -32,14 +32,22 @@ Launchpad is a no-code solution for algorithmic artwork generation, smart contra
 #### Pre-requisites
 1. ICONex Wallet (https://chrome.google.com/webstore/detail/iconex/flpiciilemghbmfalicajoolhkkenfel?hl=en)
 2. NodeJS
-3. 
 
+#### Test Guide
+1. Clone repository
+2. cd to package directory
+3. run npm install to install dependencies 
+4. run npm start to start local server
 
 ## Limitations
+- Artwork generation only supports static images
+- Unable to link multiple collections under one parent contract
+- 
+
 ## Roadmap
 - Migrating to Java SCORE
 - Integration with Craft Marketplace for secondary sales
-- Analytics 
+- 
 
 ## Resources
 Medium - (https://medium.com/@justin.mok.2020/launchpad-the-go-to-nft-minting-solution-e5b0b686ad02)
